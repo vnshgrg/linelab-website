@@ -11,6 +11,8 @@ module.exports = {
     extend: {
       colors: {
         cyan: colors.cyan,
+        primary: "#45494d",
+        secondary: "#ffefe0",
       },
     },
   },
